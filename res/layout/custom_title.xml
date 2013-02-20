@@ -10,6 +10,8 @@
             android:id="@+id/logo"
             android:src="@drawable/srfc_crest-50px"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            />
 
 </LinearLayout>
